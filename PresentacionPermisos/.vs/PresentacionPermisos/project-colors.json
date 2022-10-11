@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47a8a051-315c-459d-8542-b32e8ccdf36c": {
+      "ProjectGuid": "47a8a051-315c-459d-8542-b32e8ccdf36c",
+      "DisplayName": "PresentacionPermisos",
+      "ColorIndex": 0
+    },
+    "ab195e8a-706d-4313-b2ac-ba4c9d6a033b": {
+      "ProjectGuid": "ab195e8a-706d-4313-b2ac-ba4c9d6a033b",
+      "DisplayName": "LogicaPermisos",
+      "ColorIndex": 1
+    },
+    "dbae2c6b-b84d-472f-88eb-3cb9c8833288": {
+      "ProjectGuid": "dbae2c6b-b84d-472f-88eb-3cb9c8833288",
+      "DisplayName": "EntidadesPermisos",
+      "ColorIndex": 2
+    },
+    "dc302a01-188b-49be-97c0-bb26abc2e362": {
+      "ProjectGuid": "dc302a01-188b-49be-97c0-bb26abc2e362",
+      "DisplayName": "AccesoDatosPermisos",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
